@@ -1,4 +1,4 @@
-<?page title="Mantenimiento" contentType="text/html;charset=UFT=8"?>
+<?page title="Mantenimiento" contentType="text/html;charset=UFT=8"?> xxxxxxxxx
 <zk>
 
 <window title="REGISTRO DE ESTUDIANTES- esto es una prueba GITHUB" border="normal" width ="500px" height ="500px" apply="controlador.PersonaController">
