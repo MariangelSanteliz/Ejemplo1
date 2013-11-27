@@ -1,7 +1,7 @@
 <?page title="Mantenimiento" contentType="text/html;charset=UFT=8"?>
 <zk>
 
-<window title="REGISTRO DE ESTUDIANTES- esto es una prueba GITHUB" border="normal" width ="500px" height ="500px" apply="controlador.PersonaController">
+<window title="REGISTRO DE ESTUDIANTES- esto es una prueba GITHUB y si puedes ver esto" border="normal" width ="500px" height ="500px" apply="controlador.PersonaController">
    
     <radiogroup id="Sexo" onCheck="choice2.value = self.selectedItem.label" />
 
